@@ -5,8 +5,8 @@
 * [Sequel Pro](https://www.sequelpro.com/): MySQL DB Mangement App.
 * [Postman](https://www.getpostman.com/products): API Development Environment.
 * [Chrome](https://www.google.com/chrome/): primary development browser, with these extensions.
-* [Hyperterm](https://hyper.is/): Terminal
-* [Slack](https://slack.com/): Communication
-* [Macdown](https://macdown.uranusjr.com/): Markdown editor
-* [Brew](https://brew.sh/): The missing package manager for macOS
+* [Hyperterm](https://hyper.is/): Terminal.
+* [Slack](https://slack.com/): Communication.
+* [Macdown](https://macdown.uranusjr.com/): Markdown editor.
+* [Brew](https://brew.sh/): The missing package manager for macOS.
 * [Cask](http://caskroom.io/): Extension to brew that enables management of graphical applications through the Cask project.
