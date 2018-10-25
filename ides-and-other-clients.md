@@ -1,5 +1,5 @@
 * [PhpStorm](https://www.jetbrains.com/phpstorm/): PHP IDE - I use this as my primary IDE when working with PHP for its fast file search and integrated debugger. I may eventually switch over completely to...
-* [VSCode](https://code.visualstudio.com/): IDE for everything else. Has debugging tools built in as well as many other plugins avialable. My go-to for editing JavaSript and it's vast ecosystem. I use ~~[these plugins TK](TK)~~ in VSCode.
+* [VSCode](https://code.visualstudio.com/): IDE for everything else. Has debugging tools built in as well as many other plugins avialable. My go-to for editing JavaSript and its vast ecosystem. I use ~~[these plugins TK](TK)~~ in VSCode.
 * [Tower](https://www.git-tower.com/mac): Git Client.
 * [Filemerge](https://developer.apple.com/xcode/features/): Diff Tool - comes with XCode Tools, free.
 * [Sequel Pro](https://www.sequelpro.com/): MySQL DB Mangement App.
