@@ -1,4 +1,4 @@
-#Brew List
+# Brew List
 * adns
 * ansible
 * apr
