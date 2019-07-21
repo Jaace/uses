@@ -5,7 +5,8 @@
 * [Sequel Pro](https://www.sequelpro.com/): MySQL DB Mangement App.
 * [Postman](https://www.getpostman.com/products): API Development Environment.
 * [Chrome](https://www.google.com/chrome/): primary development browser, with these extensions.
-* [Hyperterm](https://hyper.is/): Terminal.
+* ~~[Hyperterm](https://hyper.is/): Terminal.~~ I found it to be too buggy for me, often crashing.
+* [Iterm2](https://www.iterm2.com/): Terminal with [Spaceship Prompt](https://github.com/denysdovhan/spaceship-prompt)
 * [Slack](https://slack.com/): Communication.
 * [Macdown](https://macdown.uranusjr.com/): Markdown editor.
 * [Brew](https://brew.sh/): The missing package manager for macOS.
