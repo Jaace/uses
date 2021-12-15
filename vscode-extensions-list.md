@@ -1,59 +1,59 @@
-code --install-extension aaron-bond.better-comments
-code --install-extension ajshortt.tokyo-hack
-code --install-extension amandeepmittal.expressjs
-code --install-extension andyyaldoo.vscode-json
-code --install-extension ardenivanov.svelte-intellisense
-code --install-extension be5invis.vscode-custom-css
-code --install-extension bungcip.better-toml
-code --install-extension christian-kohler.npm-intellisense
-code --install-extension christian-kohler.path-intellisense
-code --install-extension cjhowe7.laravel-blade
-code --install-extension cmstead.js-codeformer
-code --install-extension cmstead.jsrefactor
-code --install-extension CoenraadS.bracket-pair-colorizer
-code --install-extension dbaeumer.vscode-eslint
-code --install-extension dillonchanis.midnight-city
-code --install-extension dtsvet.vscode-wasm
-code --install-extension eamodio.gitlens
-code --install-extension EditorConfig.EditorConfig
-code --install-extension emmanuelbeziat.vscode-great-icons
-code --install-extension esbenp.prettier-vscode
-code --install-extension felixfbecker.php-debug
-code --install-extension felixfbecker.php-intellisense
-code --install-extension formulahendry.auto-close-tag
-code --install-extension formulahendry.auto-rename-tag
-code --install-extension glen-84.sass-lint
-code --install-extension gnhuy91.theme-oceanicnext-sublime
-code --install-extension golang.go
-code --install-extension GraphQL.vscode-graphql
-code --install-extension hashicorp.terraform
-code --install-extension ikappas.phpcs
-code --install-extension iulian-radu-at.find-unused-exports
-code --install-extension jamesmaj.easy-icons
-code --install-extension joelday.docthis
-code --install-extension joshuapoehls.json-escaper
-code --install-extension jpoissonnier.vscode-styled-components
-code --install-extension mikestead.dotenv
-code --install-extension ms-azuretools.vscode-docker
-code --install-extension ms-mssql.data-workspace-vscode
-code --install-extension ms-mssql.mssql
-code --install-extension ms-mssql.sql-database-projects-vscode
-code --install-extension ms-vscode.cpptools
-code --install-extension msjsdiag.debugger-for-chrome
-code --install-extension naumovs.color-highlight
-code --install-extension octref.vetur
-code --install-extension onecentlin.laravel-blade
-code --install-extension pizycki.pretty-exception
-code --install-extension pnp.polacode
-code --install-extension RobbOwen.synthwave-vscode
-code --install-extension ryu1kn.text-marker
-code --install-extension SintrumIT.theme-oceanic-next-italic
-code --install-extension svelte.svelte-vscode
-code --install-extension vncz.vscode-apielements
-code --install-extension WallabyJs.wallaby-vscode
-code --install-extension wayou.vscode-todo-highlight
-code --install-extension webrender.synthwave-x-fluoromachine
-code --install-extension wesbos.theme-cobalt2
-code --install-extension wix.vscode-import-cost
-code --install-extension xabikos.JavaScriptSnippets
-code --install-extension xabikos.ReactSnippets
+* code --install-extension aaron-bond.better-comments
+* code --install-extension ajshortt.tokyo-hack
+* code --install-extension amandeepmittal.expressjs
+* code --install-extension andyyaldoo.vscode-json
+* code --install-extension ardenivanov.svelte-intellisense
+* code --install-extension be5invis.vscode-custom-css
+* code --install-extension bungcip.better-toml
+* code --install-extension christian-kohler.npm-intellisense
+* code --install-extension christian-kohler.path-intellisense
+* code --install-extension cjhowe7.laravel-blade
+* code --install-extension cmstead.js-codeformer
+* code --install-extension cmstead.jsrefactor
+* code --install-extension CoenraadS.bracket-pair-colorizer
+* code --install-extension dbaeumer.vscode-eslint
+* code --install-extension dillonchanis.midnight-city
+* code --install-extension dtsvet.vscode-wasm
+* code --install-extension eamodio.gitlens
+* code --install-extension EditorConfig.EditorConfig
+* code --install-extension emmanuelbeziat.vscode-great-icons
+* code --install-extension esbenp.prettier-vscode
+* code --install-extension felixfbecker.php-debug
+* code --install-extension felixfbecker.php-intellisense
+* code --install-extension formulahendry.auto-close-tag
+* code --install-extension formulahendry.auto-rename-tag
+* code --install-extension glen-84.sass-lint
+* code --install-extension gnhuy91.theme-oceanicnext-sublime
+* code --install-extension golang.go
+* code --install-extension GraphQL.vscode-graphql
+* code --install-extension hashicorp.terraform
+* code --install-extension ikappas.phpcs
+* code --install-extension iulian-radu-at.find-unused-exports
+* code --install-extension jamesmaj.easy-icons
+* code --install-extension joelday.docthis
+* code --install-extension joshuapoehls.json-escaper
+* code --install-extension jpoissonnier.vscode-styled-components
+* code --install-extension mikestead.dotenv
+* code --install-extension ms-azuretools.vscode-docker
+* code --install-extension ms-mssql.data-workspace-vscode
+* code --install-extension ms-mssql.mssql
+* code --install-extension ms-mssql.sql-database-projects-vscode
+* code --install-extension ms-vscode.cpptools
+* code --install-extension msjsdiag.debugger-for-chrome
+* code --install-extension naumovs.color-highlight
+* code --install-extension octref.vetur
+* code --install-extension onecentlin.laravel-blade
+* code --install-extension pizycki.pretty-exception
+* code --install-extension pnp.polacode
+* code --install-extension RobbOwen.synthwave-vscode
+* code --install-extension ryu1kn.text-marker
+* code --install-extension SintrumIT.theme-oceanic-next-italic
+* code --install-extension svelte.svelte-vscode
+* code --install-extension vncz.vscode-apielements
+* code --install-extension WallabyJs.wallaby-vscode
+* code --install-extension wayou.vscode-todo-highlight
+* code --install-extension webrender.synthwave-x-fluoromachine
+* code --install-extension wesbos.theme-cobalt2
+* code --install-extension wix.vscode-import-cost
+* code --install-extension xabikos.JavaScriptSnippets
+* code --install-extension xabikos.ReactSnippets
